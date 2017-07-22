@@ -1,2 +1,3 @@
 # demo_git
-Une
+Une demo de git que se passe bien 
+ et maintenant on modifie  depuis github
